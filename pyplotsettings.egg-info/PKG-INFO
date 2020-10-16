@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: pyplotsettings
+Version: 1.0
+Summary: IEEE Latex friendly pyplot setup
+Home-page: https://jasperdegraaf.nl
+Author: Jasper de Graaf
+Author-email: j.p.d.graaf@tue.nl
+License: NA
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 1 - Beta
+Requires-Python: >=3

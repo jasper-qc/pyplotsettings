@@ -1,0 +1,8 @@
+setup.py
+pyplotsettings/__init__.py
+pyplotsettings/settings.py
+pyplotsettings.egg-info/PKG-INFO
+pyplotsettings.egg-info/SOURCES.txt
+pyplotsettings.egg-info/dependency_links.txt
+pyplotsettings.egg-info/requires.txt
+pyplotsettings.egg-info/top_level.txt
