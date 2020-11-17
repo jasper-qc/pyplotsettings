@@ -8,7 +8,7 @@ from setuptools import setup
 setup(
     name = 'pyplotsettings',
     version = '1.0',
-    description = 'IEEE Latex friendly pyplot setup',
+    description = 'IEEE friendly pyplot setup',
     url = 'https://jasperdegraaf.nl',
     author = 'Jasper de Graaf',
     author_email = 'j.p.d.graaf@tue.nl',
